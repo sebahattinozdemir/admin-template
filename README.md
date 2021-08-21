@@ -2,4 +2,4 @@
 bootstrap admin template
 
 
-demo link: admin-template-bootstrp.netlify.app
+demo link: www.admin-template-bootstrp.netlify.app
